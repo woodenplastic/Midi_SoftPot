@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "SoftPot_Midi",
+			"path": "../../SoftPot_Midi"
+		}
+	],
+	"settings": {}
+}
